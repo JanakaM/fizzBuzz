@@ -1,0 +1,10 @@
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.csproj.AssemblyReference.cache
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.AssemblyInfoInputs.cache
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.AssemblyInfo.cs
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.csproj.CoreCompileInputs.cache
+C:\Temp\Kata\fizz\Fizz\bin\Debug\netcoreapp3.1\Fizz.deps.json
+C:\Temp\Kata\fizz\Fizz\bin\Debug\netcoreapp3.1\Fizz.dll
+C:\Temp\Kata\fizz\Fizz\bin\Debug\netcoreapp3.1\Fizz.pdb
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.dll
+C:\Temp\Kata\fizz\Fizz\obj\Debug\netcoreapp3.1\Fizz.pdb

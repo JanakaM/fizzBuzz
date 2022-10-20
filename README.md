@@ -1,2 +1,0 @@
-# fizzBuzz
-Kata fizzBuzz
