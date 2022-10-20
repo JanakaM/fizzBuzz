@@ -16,3 +16,4 @@ C:\Janaka\GitHub\fizzBuzz\Fizz\obj\Debug\netcoreapp3.1\Fizz.pdb
 C:\Janaka\GitHub\fizzBuzz\Fizz\bin\Debug\netcoreapp3.1\Fizz.deps.json
 C:\Janaka\GitHub\fizzBuzz\Fizz\bin\Debug\netcoreapp3.1\Fizz.dll
 C:\Janaka\GitHub\fizzBuzz\Fizz\bin\Debug\netcoreapp3.1\Fizz.pdb
+C:\Janaka\GitHub\fizzBuzz\Fizz\obj\Debug\netcoreapp3.1\Fizz.csprojAssemblyReference.cache
