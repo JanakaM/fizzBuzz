@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hB+gFcWT6CJ6F/bdB4ts2BQtQpZkDrYR+lOMEwDT5w2sJazTPDJG9HHQ1voJFbbLRXKiJnP8MucDU22ZeI46cA==",
+  "dgSpecHash": "2fpyZAk26kgZeomisJ/07onzv5x+IYuZN7s3elrjAiArkw9OyagsuTACK39VRVpHzF2JLBjSK+w6TG5tajoknQ==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\Kata\\fizz\\Fizz\\Fizz.csproj",
+  "projectFilePath": "C:\\Janaka\\GitHub\\fizzBuzz\\Fizz\\Fizz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

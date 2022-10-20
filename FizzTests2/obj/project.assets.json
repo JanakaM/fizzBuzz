@@ -5404,23 +5404,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JanakaMalalagama\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\malal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\Kata\\fizz\\FizzTests2\\FizzTests2.csproj",
+      "projectUniqueName": "C:\\Janaka\\GitHub\\fizzBuzz\\FizzTests2\\FizzTests2.csproj",
       "projectName": "FizzTests2",
-      "projectPath": "C:\\Temp\\Kata\\fizz\\FizzTests2\\FizzTests2.csproj",
-      "packagesPath": "C:\\Users\\JanakaMalalagama\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\Kata\\fizz\\FizzTests2\\obj\\",
+      "projectPath": "C:\\Janaka\\GitHub\\fizzBuzz\\FizzTests2\\FizzTests2.csproj",
+      "packagesPath": "C:\\Users\\malal\\.nuget\\packages\\",
+      "outputPath": "C:\\Janaka\\GitHub\\fizzBuzz\\FizzTests2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JanakaMalalagama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\malal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5428,14 +5424,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://auden.jfrog.io/auden/api/nuget/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Temp\\Kata\\fizz\\Fizz\\Fizz.csproj": {
-              "projectPath": "C:\\Temp\\Kata\\fizz\\Fizz\\Fizz.csproj"
+            "C:\\Janaka\\GitHub\\fizzBuzz\\Fizz\\Fizz.csproj": {
+              "projectPath": "C:\\Janaka\\GitHub\\fizzBuzz\\Fizz\\Fizz.csproj"
             }
           }
         }
@@ -5486,7 +5482,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
